@@ -13,7 +13,7 @@ Apaixonado por tecnologia e inovação, busco oportunidades para crescer na áre
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Conecte-se comigo!
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/marcos-rafael-r-dos-santos-105790257))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rafael-r-dos-santos-105790257)
 
 ## Status
 ![Stats](https://github-readme-stats.vercel.app/api?username=littledustdev&theme=blue-green&show_icons=true&count_private=true&hide_border=true)
